@@ -1,0 +1,21 @@
+
+.restaurant {
+    text-align: center;
+    background-color: rgb(198, 199, 199);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.restaurantSection img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+
+}
+
+.restaurantSection {
+    width: 20%;
+    margin: 10px;
+    margin-top: 30px;
+}

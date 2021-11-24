@@ -13,7 +13,7 @@ class Employee extends React.Component {
       <div>
       <div className="employees">
         <h1>{this.props.name}</h1>
-        <img alt="" src={this.props.image}></img>
+        <img class ="imagesEmployees"alt="" src={this.props.image}></img>
       </div>
       <div className="showEmployees">
 

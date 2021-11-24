@@ -1,0 +1,18 @@
+.Main {
+    text-align: center;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+
+}
+
+video {
+    width: 600px;
+    height: 600px;
+}
+
+#personalImage {
+    width: 600px;
+    height: 600px;
+}
